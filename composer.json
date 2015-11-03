@@ -1,0 +1,14 @@
+{
+    "name": "sirna/codeigniter-modular-extensions",
+    "description": "Fork of WireDesigns codeigniter-modular-extensions",
+    "version": "master",
+    "type": "vcs-private",
+    "authors": [
+        {
+            "name": "sirna",
+            "email": "zabka.sirna.gwen@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
